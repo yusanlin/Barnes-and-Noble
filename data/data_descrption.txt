@@ -1,0 +1,28 @@
+
+
+
+1225 unique books
+In total, we have 571 unique subjects
+259 unique publishers
+960 unique authors
+
+How long has the book been published?
+
+data: original data
+data_2: cleaned out None rows
+
+This time we have books that are rated as one star.
+
+
+1. Rating
+2. Title
+3. Price
+4. Nook
+5. Audio
+6. Hardcover
+7. Publisher
+8. Published date
+9. Until 1206
+10. Pages
+11. Number of reviews
+12 - 134. Subjects

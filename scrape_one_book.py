@@ -47,5 +47,5 @@ def scrape_book(u):
         return [title, author, price, nook, hardcover, audio, subject, publisher, date, pages, overview, n_reviews, rating]
     
     except (AttributeError, IndexError, ValueError) as e:
-        print "not complete book. discard."
+        #print "not complete book. discard."
         return None

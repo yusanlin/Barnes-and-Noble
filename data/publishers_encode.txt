@@ -1,0 +1,259 @@
+0	Abingdon Press
+1	Abrams Books
+2	Abrams, Harry N., Inc.
+3	Accepted, Inc.
+4	Ace
+5	Ace Hardcover
+6	Ace Trade
+7	Adams Media
+8	Akashic Books
+9	Aladdin
+10	Algonquin Books of Chapel Hill
+11	Amazon Publishing
+12	Amber-Allen Publishing
+13	Amy Einhorn Books/Putnam
+14	Andrews McMeel Publishing
+15	Artisan
+16	Association for Supervision & Curriculum Development
+17	Atria Books
+18	Atria Books/Beyond Words
+19	Atria/Emily Bestler Books
+20	AuthorHouse
+21	Avalon Travel Publishing
+22	Avery Trade
+23	Baen
+24	Baker Publishing Group
+25	Bantam Books
+26	Barnes & Noble
+27	Barron's Educational Series, Incorporated
+28	Basic Books
+29	Beacon
+30	Beaufort Books, Incorporated
+31	Bethany House Publishers
+32	Bird Street Books
+33	Black Dog & Leventhal Publishers, Inc.
+34	Bloomsbury Academic
+35	Bloomsbury USA
+36	BlueBridge
+37	Borushek, Allan & Associates, Incorporated
+38	CCA and B, LLC
+39	Candlewick Press
+40	Cash Money Content
+41	Catholic Book Publishing Company
+42	Cedar Fort, Incorporated/CFI Distribution
+43	Celebra Hardcover
+44	Center Street
+45	Charisma Media
+46	Chronicle Books LLC
+47	Cisco Press
+48	College Board
+49	Compendium, Incorporated, Publishing & Communications
+50	Cook, David C
+51	Cool Springs Press
+52	Cool Tools Lab
+53	Cornell University Press
+54	CreateSpace Publishing
+55	Crossway
+56	Crossway Books
+57	Crown Publishing Group
+58	Current Trade
+59	DAW
+60	DAW Hardcover
+61	DC Comics
+62	DK Publishing, Inc.
+63	Da Capo Press
+64	Dark Horse Comics
+65	Dial
+66	Disney Press
+67	Disney-Hyperion
+68	Diversified Publishing
+69	Doubleday Publishing
+70	Dover Publications
+71	Ediciones B
+72	Editorial Unilit
+73	EgmontUSA
+74	F+W Media
+75	FT Press
+76	FaithWords
+77	Fall River Press
+78	Farrar, Straus and Giroux
+79	Feiwel & Friends
+80	Filiquarian Publishing
+81	Flatiron Books
+82	Fox Chapel Publishing Company, Incorporated
+83	Gale Group
+84	Gallery Books
+85	Gallery/Jeter Publishing
+86	Gallup Press
+87	Genesis Publications
+88	Glass Road Media
+89	Good Night Books
+90	Gotham
+91	Grand Central Publishing
+92	Green Candy Press
+93	Grove/Atlantic, Inc.
+94	Grupo Nelson
+95	Guinness World Records
+96	Hachette Book Group USA
+97	Harlequin
+98	HarperCollins Publishers
+99	HarperCollins UK
+100	Hay House, Inc.
+101	Hazelden Publishing
+102	Health Communications, Incorporated
+103	Hearst
+104	Heinemann
+105	Henry Holt and Co. (BYR)
+106	Holt, Henry & Company, Inc.
+107	Houghton Mifflin Harcourt
+108	Howard Books
+109	Humanix Books
+110	Hyperion
+111	Ignatius Press
+112	Image Comics
+113	Interweave Press
+114	Ishi Press
+115	Jove
+116	Kalmbach Publishing Company, Books Division
+117	Kaplan Publishing
+118	Kathy Dawson Books
+119	Kensington Publishing Corporation
+120	Kingswell
+121	Knopf Doubleday Publishing Group
+122	Knopf Publishing Group
+123	Krause Publications
+124	Lark Books NC
+125	Lark Crafts
+126	Laughing Grape Publishing
+127	Learningexpress, Llc
+128	Lectorum Publications, Inc.
+129	Little, Brown Books for Young Readers
+130	Little, Brown and Company
+131	Liveright Publishing Corporation
+132	Loyola Press
+133	MTV Books
+134	Margaret K. McElderry Books
+135	Martingale & Company
+136	Marvel
+137	McGraw-Hill Education
+138	McGraw-Hill Professional Publishing
+139	McSweeney's Publishing
+140	Melville House Publishing
+141	Merriam-Webster, Inc.
+142	Microsoft Press
+143	Mometrix Media LLC
+144	Moody Publishers
+145	Motorbooks
+146	N A P S A C Reproductions
+147	NOLO
+148	Nation Books
+149	National Geographic Society
+150	Nelson, Thomas, Inc.
+151	New Directions Publishing Corporation
+152	New Harbinger Publications
+153	New Press, The
+154	New Riders
+155	New York Review Books
+156	No Starch Press San Francisco, CA
+157	Norton, W. W. & Company, Inc.
+158	Nutradvise, Inc.
+159	OFA
+160	Orbit
+161	Oxford University Press, USA
+162	Oxmoor House
+163	Peace Hill Press
+164	Peachpit Press
+165	Penguin Group (USA)
+166	Penguin Group (USA) Incorporated
+167	Penguin Young Readers Group
+168	Peterson's
+169	Phaidon Press
+170	Picador
+171	Planeta Publishing Corporation
+172	Pocket Books
+173	Portfolio Hardcover
+174	Portfolio Trade
+175	Publicaciones y Ediciones Salamandra, S.A.
+176	Publications International, Limited
+177	Purdue University Press
+178	Que
+179	Quick Trading Company
+180	Quirk Publishing
+181	Random House Children's Books
+182	Random House Publishing Group
+183	Reader's Digest Association, Incorporated, The
+184	Regina Orthodox Press,Csi
+185	Regnery Publishing
+186	Research & Education Association
+187	Rizzoli
+188	Roc
+189	Roc Hardcover
+190	Rodale Press, Inc.
+191	RosettaBooks
+192	STC Craft/A Melanie Falick Book
+193	Sams
+194	Santillana USA Publishing Company
+195	Sasquatch Books
+196	Scholastic, Inc.
+197	Scribner
+198	Self-Realization Fellowship
+199	Sentinel HC
+200	Sentinel Trade
+201	Seven Stories Press
+202	Shambhala Publications, Inc.
+203	Signet
+204	Simon & Schuster
+205	Simon & Schuster Books For Young Readers
+206	Simon & Schuster/Paula Wiseman Books
+207	Simon Pulse
+208	Sixth&Spring
+209	Skyhorse Publishing
+210	Soho Press, Incorporated
+211	Solution Tree
+212	Sourcebooks, Incorporated
+213	SparkNotes
+214	Spring Street Publishing
+215	Square Fish
+216	St. Martin's Press
+217	Sterling
+218	Sterling Epicure
+219	Sterling Innovation
+220	Sterling Publishing
+221	Storey Books
+222	Strebor Books
+223	Taunton Press, Incorporated
+224	Ten Speed Press
+225	The Doubleday Religious Publishing Group
+226	Threshold Editions
+227	Timber Press, Incorporated
+228	Time Home Entertainment, Inc
+229	Titan
+230	Tom Doherty Associates
+231	Touchstone
+232	Trafford Publishing
+233	Travelers' Tales Guides, Incorporated
+234	Triumph Books
+235	Trivium Test Prep
+236	Tyndale House Publishers
+237	University Press of Kentucky
+238	University of Nebraska Press
+239	Unofficial Guides
+240	VH1 Books
+241	VIZ Media LLC
+242	Victory Belt Publishing
+243	Viking Adult
+244	Viking Juvenile
+245	Viking Penguin
+246	Walker & Company
+247	Washington Square Press
+248	Waterhouse Press LLC
+249	Weinstein Publishing
+250	Whitecap Books, Limited
+251	Whitman, Albert & Company
+252	Wiley
+253	Wizards of the Coast
+254	Wolters Kluwer Health
+255	Workman Publishing Company, Inc.
+256	Worthy Publishing
+257	Yale University Press
+258	Zondervan

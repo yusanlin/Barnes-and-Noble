@@ -37,7 +37,7 @@ for u in urls:
 
 books = list(set(books))
 
-f = open("data/book_urls.txt", "w")
+f = open("data/book_urls_1205.txt", "w")
 for book in books:
     f.write(str(book) + "\n")
 f.close()
